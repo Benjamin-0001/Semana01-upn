@@ -1,0 +1,7 @@
+C:\Users\ALUMNO\Documents\Visual Studio 2022\Proyectos\semana 01 benjamin\bin\Debug\semana 01 benjamin.exe.config
+C:\Users\ALUMNO\Documents\Visual Studio 2022\Proyectos\semana 01 benjamin\bin\Debug\semana 01 benjamin.exe
+C:\Users\ALUMNO\Documents\Visual Studio 2022\Proyectos\semana 01 benjamin\bin\Debug\semana 01 benjamin.pdb
+C:\Users\ALUMNO\Documents\Visual Studio 2022\Proyectos\semana 01 benjamin\obj\Debug\semana 01 benjamin.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Documents\Visual Studio 2022\Proyectos\semana 01 benjamin\obj\Debug\semana 01 benjamin.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Documents\Visual Studio 2022\Proyectos\semana 01 benjamin\obj\Debug\semana 01 benjamin.exe
+C:\Users\ALUMNO\Documents\Visual Studio 2022\Proyectos\semana 01 benjamin\obj\Debug\semana 01 benjamin.pdb
