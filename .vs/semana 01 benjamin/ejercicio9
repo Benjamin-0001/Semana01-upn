@@ -1,0 +1,49 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp3
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int numero;
+
+            while (true)
+            {
+                Console.WriteLine("Ingrese un numero de 4 cifras.");
+                if (int.TryParse(Console.ReadLine(), out numero) && numero >= 1000 && numero<= 9999)
+                {
+                    break;
+                }
+                Console.WriteLine("Error: el numero debe ser exactamente de 4 cifraS");
+            }
+
+            int unidad = numero % 10;
+            int decena = (numero / 10) % 10;
+            int centena = (numero / 100) % 10;
+            int millar = (numero / 1000);
+            
+            Console.WriteLine("Unidad: " + unidad);
+            Console.WriteLine("decena: " + decena);
+            Console.WriteLine("centena: " + centena);
+            Console.WriteLine("millar: " + millar);
+
+            if (unidad == millar && centena == decena)
+            {
+                Console.WriteLine("El numero es capicua");
+            }
+            else
+            {
+                Console.WriteLine("El numero no es capicua");
+            }
+               
+
+
+        }
+    }
+}
+
